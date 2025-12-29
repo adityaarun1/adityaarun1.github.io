@@ -4,8 +4,8 @@ main:
     authors: Megha Mariam K M, <strong>Aditya Arun</strong>, Zakaria Laskar, C. V. Jawahar
     conference_short: WACV
     conference: The IEEE/CVF Winter Conference on Applications of Computer Vision 2026 <strong>(WACV)</strong>, 2026.
-    pdf: .assets/files/wacv26/MAC_WACV2026_main.pdf
-    supp: .assets/files/wacv26/MAC_WACV2026_supp.pdf
+    pdf: ./assets/files/wacv26/MAC_WACV2026_main.pdf
+    supp: ./assets/files/wacv26/MAC_WACV2026_supp.pdf
     # arxiv:
     page: https://meghamariamkm.github.io/phyeduvideo26
     code: https://github.com/meghamariamkm/PhyEduVideo
@@ -29,8 +29,8 @@ main:
     authors: Yash Arora, <strong>Aditya Arun</strong>, C. V. Jawahar
     conference_short: ICVGIP
     conference: Indian Conference on Computer Vision, Graphics and Image Processing <strong>(ICVGIP)</strong>, 2025.
-    pdf: ./assets/files/icvgip25/biryani/Biryani_ICVGIP2025_main.pdf
-    supp: ./assets/files/icvgip25/biryani/Biryani_ICVGIP2025_supp.pdf
+    pdf: ./assets/files/icvgip25/thali/Thali_ICVGIP2025_main.pdf
+    supp: ./assets/files/icvgip25/thali/Thali_ICVGIP2025_supp.pdf
     # arxiv:
     code: https://github.com/yasharora102/Indian_Thali_ICVGIP2025
     page: https://cvit.iiit.ac.in/research/projects/cvit-projects/indian_thali
@@ -57,7 +57,7 @@ main:
     authors: Jack Porter, Rajiv Baronia, Suzanne Kirch, Vineeth Munirathnam, <strong>Aditya Arun</strong>
     conference_short: Patent
     conference: US Patent Application, 2023.
-    pdf: ./assets/files/patent23/JRSVA_WO_Patnet_2023.pdf
+    pdf: ./assets/files/patent23/JRSVA_WO_Patent_2023.pdf
     page: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023069396
     image: 
 
