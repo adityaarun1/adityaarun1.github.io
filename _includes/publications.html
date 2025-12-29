@@ -27,6 +27,10 @@
             <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank"
               style="font-size:12px;">PDF</a>
             {% endif %}
+            {% if link.supp %}
+            <a href="{{ link.supp }}" class="btn btn-sm z-depth-0" role="button" target="_blank"
+              style="font-size:12px;">Supplementary</a>
+            {% endif %}
             {% if link.code %}
             <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank"
               style="font-size:12px;">Code</a>
@@ -34,6 +38,18 @@
             {% if link.page %}
             <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank"
               style="font-size:12px;">Project Page</a>
+            {% endif %}
+            {% if link.short_video %}
+            <a href="{{ link.short_video }}" class="btn btn-sm z-depth-0" role="button" target="_blank"
+              style="font-size:12px;">Short Video</a>
+            {% endif %}
+            {% if link.long_video %}
+            <a href="{{ link.long_video }}" class="btn btn-sm z-depth-0" role="button" target="_blank"
+              style="font-size:12px;">Long Video</a>
+            {% endif %}
+            {% if link.poster %}
+            <a href="{{ link.poster }}" class="btn btn-sm z-depth-0" role="button" target="_blank"
+              style="font-size:12px;">Poster</a>
             {% endif %}
             {% if link.bibtex %}
             <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank"
