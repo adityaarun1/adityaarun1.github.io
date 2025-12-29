@@ -1,6 +1,6 @@
 main:
 
-  - title: PhyEduVideo: A Benchmark for Evaluating Text-to-Video Models for Physics Education
+  - title: "PhyEduVideo: A Benchmark for Evaluating Text-to-Video Models for Physics Education"
     authors: Megha Mariam K M, <strong>Aditya Arun</strong>, Zakaria Laskar, C. V. Jawahar
     conference_short: WACV
     conference: The IEEE/CVF Winter Conference on Applications of Computer Vision 2026 <strong>(WACV)</strong>, 2026.
@@ -12,7 +12,7 @@ main:
     bibtex: ./assets/files/wacv26/phyeduvideo.bib
     image: ./assets/files/wacv26/wacv26_teaser.png
 
-  - title: How Does India Cook Biryani?
+  - title: "How Does India Cook Biryani?"
     authors: C. V. Rishi*, Farzana S*, Shubham Goel*, <strong>Aditya Arun</strong>, C. V. Jawahar (*Equal Contribution)
     conference_short: ICVGIP
     conference: Indian Conference on Computer Vision, Graphics and Image Processing <strong>(ICVGIP)</strong>, 2025.
@@ -25,7 +25,7 @@ main:
     notes: Oral Presentation
     image: ./assets/files/icvgip25/biryani/biryani_icvgip25_teaser.png
 
-  - title: What is there in an Indian Thali?
+  - title: "What is there in an Indian Thali?"
     authors: Yash Arora, <strong>Aditya Arun</strong>, C. V. Jawahar
     conference_short: ICVGIP
     conference: Indian Conference on Computer Vision, Graphics and Image Processing <strong>(ICVGIP)</strong>, 2025.
@@ -37,14 +37,14 @@ main:
     bibtex: ./assets/files/icvgip25/thali/thali_icvgip25.bib
     image: ./assets/files/icvgip25/thali/thali_icvgip25_teaser.gif
 
-  - title: Learning with Weak Supervision for Visual Scene Understanding
+  - title: "Learning with Weak Supervision for Visual Scene Understanding"
     authors: <strong>Aditya Arun</strong>
     conference_short: Thesis
     conference: PhD Thesis, CVIT, IIIT Hyderabad, 2025.
     pdf: ./assets/files/thesis/Aditya_PhD_Thesis.pdf
     image: ./assets/files/thesis/PhD_teaser.png
 
-  - title: Spatial Consistency Enhanced Dissimilarity Coefficient based Weakly Supervised Object Detection
+  - title: "Spatial Consistency Enhanced Dissimilarity Coefficient based Weakly Supervised Object Detection"
     authors: <strong>Aditya Arun</strong>, C. V. Jawahar, M. Pawan Kumar
     conference_short: Under Review
     conference: Under Review, 2024.
@@ -53,14 +53,14 @@ main:
     # arxiv:
     image: ./assets/files/journal24/AJK_Journal2024.png
 
-  - title: Semantic Frame Identification using Transformers
+  - title: "Semantic Frame Identification using Transformers"
     authors: Jack Porter, Rajiv Baronia, Suzanne Kirch, Vineeth Munirathnam, <strong>Aditya Arun</strong>
     conference_short: Patent
     conference: US Patent Application, 2023.
     pdf: ./assets/files/patent23/JRSVA_WO_Patnet_2023.pdf
     page: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023069396
 
-  - title: Weakly Supervised Instance Segmentation by Learning Annotation Consistent Instances
+  - title: "Weakly Supervised Instance Segmentation by Learning Annotation Consistent Instances"
     authors: <strong>Aditya Arun</strong>, C. V. Jawahar, M. Pawan Kumar
     conference_short: ECCV
     conference: The European Conference on Computer Vision <strong>(ECCV)</strong>, 2020.
@@ -72,7 +72,7 @@ main:
     bibtex: ./assets/files/eccv20/ajk_eccv20.bib
     image: ./assets/files/eccv20/AJK_ECCV2020_teaser.png
 
-  - title: Dissimilarity Coefficient based Weakly Supervised Object Detection
+  - title: "Dissimilarity Coefficient based Weakly Supervised Object Detection"
     authors: <strong>Aditya Arun</strong>, C. V. Jawahar, M. Pawan Kumar
     conference_short: CVPR
     conference: The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2019.
@@ -83,8 +83,8 @@ main:
     poster: ./assets/files/cvpr20/AJK_CVPR2019_poster.pdf
     bibtex: ./assets/files/cvpr20/ajk_cvpr19.bib
     image: ./assets/files/cvpr20/AJK_CVPR2019_teaser.png
-  
-  - title: Learning Human Poses From Actions
+
+  - title: "Learning Human Poses From Actions"
     authors: <strong>Aditya Arun</strong>, C. V. Jawahar, M. Pawan Kumar
     conference_short: BMVC
     conference: The British Machine Vision Conference <strong>(BMVC)</strong>, 2018.
