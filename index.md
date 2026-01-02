@@ -14,15 +14,24 @@ I received my B.E. in Computer Science from [BIT Mesra](https://bitmesra.ac.in/)
 
 In my free time, I like to read books, play sports (cricket, table tennis, and running are my favorites), go on hikes, write short stories, and play guitar. Also, I was born and raised in [Patna](https://en.wikipedia.org/wiki/Patna), one of the oldest continuously inhabited places in the world!
 
-## Research Interests
+<!-- ## Research Interests
 
 - **Computer Vision:** visual generation, visual reasoning, visual perception
-- **Machine Learning:** probabilistic methods, weakly supervised learning, reinforcement learning
+- **Machine Learning:** probabilistic methods, weakly supervised learning, reinforcement learning -->
 
 ## News
 
 - **[Nov. 2025]** Our paper about evaluating physics educational video is accepted to WACV 2026.
-- **[Oct. 2025]** Two papers, that started as a fun summer projects, accepted at ICVGIP 2025.
+- **[Oct. 2025]** Two papers, which originated as fun summer projects, have been accepted for publication at ICVGIP 2025.
 - **[Jul. 2025]** I joined [Adobe MDSR lab](https://adobe.mdsr.live/) as a Research Scientist.
 - **[Jun. 2025]** I defended my PhD! My examining committee approved my thesis with no revisions! :)
 - **[May. 2025]** I received [outstanding reviewer award](https://cvpr.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer) for CVPR 2025. :)
+
+## Awards
+
+- Awarded outstanding reviewer award for CVPR 2025, 2021
+- Awarded Google travel support for CVPR 2019
+- Awarded Visvesvaraya PhD Fellowship for PhD research and studies.
+- Awarded IIIT Hyderabad Institute Fellowship for MS by Research (CSE) and PhD (CSE) research program.
+- Awarded CSE Department Award for best final year project at BIT Mesra.
+- Won 3rd prize (among 84 teams from across India) in Microsoft Garage Hackathon, 2017 for our project *Daredevil* - which brings human echolocation to the masses using a smartphone camera.

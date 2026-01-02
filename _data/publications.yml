@@ -59,7 +59,7 @@ main:
     conference: US Patent Application, 2023.
     pdf: ./assets/files/patent23/JRSVA_WO_Patent_2023.pdf
     page: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023069396
-    image: 
+    image: ./assets/files/BLANK.jpg
 
   - title: "Weakly Supervised Instance Segmentation by Learning Annotation Consistent Instances"
     authors: <strong>Aditya Arun</strong>, C. V. Jawahar, M. Pawan Kumar
