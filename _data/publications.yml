@@ -6,7 +6,7 @@ main:
     conference: The IEEE/CVF Winter Conference on Applications of Computer Vision 2026 <strong>(WACV)</strong>, 2026.
     pdf: ./assets/files/wacv26/MAC_WACV2026_main.pdf
     supp: ./assets/files/wacv26/MAC_WACV2026_supp.pdf
-    # arxiv:
+    arxiv: https://arxiv.org/abs/2601.00943
     page: https://meghamariamkm.github.io/phyeduvideo26
     code: https://github.com/meghamariamkm/PhyEduVideo
     bibtex: ./assets/files/wacv26/phyeduvideo.bib
