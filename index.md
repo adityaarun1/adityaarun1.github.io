@@ -21,6 +21,7 @@ In my free time, I like to read books, play sports (cricket, table tennis, and r
 
 ## News
 
+- **[Jan. 2026]** Our paper _How Does India Cook Biryani_ presented at ICVGIP 2025 received press coverage [Link](https://www.thehindu.com/food/researchers-at-iiit-h-try-to-crack-the-code-of-variation-in-biryanis/article70493927.ece).
 - **[Nov. 2025]** Our paper about evaluating physics educational video is accepted to WACV 2026.
 - **[Oct. 2025]** Two papers, which originated as fun summer projects, have been accepted for publication at ICVGIP 2025.
 - **[Jul. 2025]** I joined [Adobe MDSR lab](https://adobe.mdsr.live/) as a Research Scientist.
