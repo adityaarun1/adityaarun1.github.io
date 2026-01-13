@@ -18,7 +18,7 @@ main:
     conference: Indian Conference on Computer Vision, Graphics and Image Processing <strong>(ICVGIP)</strong>, 2025.
     pdf: ./assets/files/icvgip25/biryani/Biryani_ICVGIP2025_main.pdf
     supp: ./assets/files/icvgip25/biryani/Biryani_ICVGIP2025_supp.pdf
-    # arxiv:
+    arxiv: https://arxiv.org/abs/2601.06198
     code: https://github.com/farzanashaju/how-does-india-cook-biryani
     page: https://farzanashaju.github.io/how-does-india-cook-biryani/
     bibtex: ./assets/files/icvgip25/biryani/biryani_icvgip25.bib
