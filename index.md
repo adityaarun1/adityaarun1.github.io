@@ -21,6 +21,7 @@ In my free time, I like to read books, play sports (cricket, table tennis, and r
 
 ## News
 
+- **[May 2026]** Our work on _Human Anatomy Correction using Test Time Trajectory Steering_ has been approved for US Patent.
 - **[Jan. 2026]** Our paper _How Does India Cook Biryani_ presented at ICVGIP 2025 received press coverage ([Link](https://www.thehindu.com/food/researchers-at-iiit-h-try-to-crack-the-code-of-variation-in-biryanis/article70493927.ece)).
 - **[Nov. 2025]** Our paper about evaluating physics educational video is accepted to WACV 2026.
 - **[Oct. 2025]** Two papers, which originated as fun summer projects, have been accepted for publication at ICVGIP 2025.
