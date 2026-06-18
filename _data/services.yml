@@ -2,8 +2,8 @@ main:
 
   Conference Reviewers:
     
-      - title: CVPR, ICCV, ACCV, WACV, ICVGIP, NCVPRIPG
+      - title: CVPR, ICCV, ECCV, NeurIPS, ACCV, WACV, ICVGIP, NCVPRIPG
 
   Journal Reviewers:
 
-      - title: TPAMI, CVIU, TMM
+      - title: TPAMI, IJCV, CVIU, PR, TMM

@@ -4,9 +4,9 @@ main:
     authors: Sanjay Bhargav Dharavath, Hanvitha Saraswathi Mukkamala, Faizan Farooq Khan, Ioannis Kakogeorgiou, <strong>Aditya Arun</strong>, Zakaria Laskar, C.V. Jawahar
     conference_short: ECCV
     conference: The European Conference on Computer Vision <strong>(ECCV)</strong>, 2026.
-    arxiv: (coming soon)
-    code: (coming soon)
-    image: ./assets/files/eccv26/eccv26_teaser.png
+    # arxiv: 
+    # code: 
+    image: ./assets/files/eccv26/eccv26_teaser.jpg
 
   - title: "PhyEduVideo: A Benchmark for Evaluating Text-to-Video Models for Physics Education"
     authors: Megha Mariam K M, <strong>Aditya Arun</strong>, Zakaria Laskar, C. V. Jawahar
