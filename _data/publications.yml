@@ -7,6 +7,7 @@ main:
     # arxiv: 
     # code: 
     image: ./assets/files/eccv26/eccv26_teaser.jpg
+    notes: Additional details are coming soon
 
   - title: "PhyEduVideo: A Benchmark for Evaluating Text-to-Video Models for Physics Education"
     authors: Megha Mariam K M, <strong>Aditya Arun</strong>, Zakaria Laskar, C. V. Jawahar
